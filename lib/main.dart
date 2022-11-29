@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     double screenWidth = window.physicalSize.width;
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Episode 1",
+      title: "Realtor",
       theme: ThemeData(
           primaryColor: COLOR_WHITE,
           accentColor: COLOR_DARK_BLUE,
